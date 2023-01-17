@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "titulo": "Camiseta Gospel Frases Bíblicas Masculina",
+        "capa": "https://images.tcdn.com.br/img/img_prod/737444/camiseta_gratidao_religiosa_feminina_frases_evangelicas_36866635_variacao_57599_1_20200427181333.jpg",
+        "preco": "59,90",
+        "varejo" :"69,90"
+    },
+    {
+        "id": 2,
+        "titulo": "Camiseta Gospel Frases Bíblicas Masculina",
+        "capa": "https://images.tcdn.com.br/img/img_prod/737444/camiseta_jesus_cristo_strong_masculina_dizeres_religiosos_30089771_1_20200427181321.jpg",
+        "preco": "49,90",
+        "varejo" :"69,90"
+    },
+    {
+        "id": 3,
+        "titulo": "Camiseta Gospel Frases Bíblicas Masculina",
+        "capa": "https://images.tcdn.com.br/img/img_prod/737444/camiseta_religiosa_para_igreja_perdao_forgiven_masculina_30186297_1_20200427181328.jpg",
+        "preco": "49,90",
+        "varejo" :"69,90"
+    },
+    {
+        "id": 4,
+        "titulo": "Camiseta Gospel Frases Bíblicas Masculina",
+        "capa": "https://images.tcdn.com.br/img/img_prod/737444/camiseta_loves_religiosa_masculina_frases_da_biblia_33399563_1_20200427181330.jpg",
+        "preco": "49,90",
+        "varejo" :"69,90"
+    },{
+        "id": 5,
+        "titulo": "Camiseta Gospel Frases Bíblicas Masculina",
+        "capa": "https://images.tcdn.com.br/img/img_prod/737444/camiseta_gospel_religiosa_catolica_frases_biblia_masculina_24835885_1_20200427181259.jpg",
+        "preco": "49,90",
+        "varejo" :"69,90"
+    }
+]
