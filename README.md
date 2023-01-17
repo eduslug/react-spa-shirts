@@ -1,5 +1,5 @@
 # Projeto feito em React 
-### SPA venda de camisas, projeto feito para trinar react router dom, redux e css modules
+### SPA venda de camisas, projeto feito para treinar react router dom, redux e css modules
 
 ![GIF 17-01-2023 17-21-55](https://user-images.githubusercontent.com/38886580/213004883-af665dc4-04c9-4a7e-911f-15e515e92dc0.gif)
 
